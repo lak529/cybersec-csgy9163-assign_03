@@ -1,9 +1,0 @@
-2019/11/24
--playing catchup for a project I last worked on 2 weeks ago.  I implemented most
- of the code (I think), but I need to review that I have it (since I was just 
- wrapping up the endpoints last I looked).
--Ahh ok, I added the db schema change, not the new endpoints, and I haven't added
- the new endpoints yet
--check out "http://landscape.cncf.io" for a list of tools/platforms I can use
- for all this stuff.
--Oh!  Right.  I'm still using sqlite, until the whole thing is working.
