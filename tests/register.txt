@@ -1,0 +1,15 @@
+POST /register HTTP/1.1
+Host: 127.0.0.1:5000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 168
+Origin: http://127.0.0.1:5000
+Connection: keep-alive
+Referer: http://127.0.0.1:5000/register
+Cookie: session=.eJwNzjsKQkEMAMC7bG2x-b94GUmyWRBBQe3Eu2s9zXzG5brGeeCavaWNuykgiiZ6ZMfUMtOcDabTkGnPbcq8LDjTwbY7IK8UoWo6mJspyUOrtBDMgSWdK6VV3O3PuA7eU7KsZDdRkeo4jXo99-X9uPX9_8kd7JkICSTNAV4JuqBDOiAVEUkE1vj-AG7lNeY.XewrFA.R74cU3DSAgI6IrjGmYLmmAsMjTU
+Upgrade-Insecure-Requests: 1
+
+csrf_token=ImJmYTQ5YmIyMWIxMzVlNGExOWNiMTZkMWVhNWVhMWI2MjIyMzU1MWQi.XewrHw.V6Qw-EqLWHS3RI6_vCn-XMtMP5E&username=aaa&password=Administrator%401&mfaid=aaa&submit=Register

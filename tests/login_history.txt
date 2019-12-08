@@ -1,0 +1,17 @@
+POST /login_history HTTP/1.1
+Host: 127.0.0.1:5000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 129
+Origin: http://127.0.0.1:5000
+Connection: keep-alive
+Referer: http://127.0.0.1:5000/history
+Cookie: session=.eJwlj8uKAkEMAP-lzx46nZfxZ4YkncZlYRdm9CT-uwOei4KqV9vWXse93R77sy5t-5nt1sbstbiUqtDBE_swj_IuqSrRC1S6DsLVlwrRVKcIA11mMGgGM2bhlagIA80lU3KAGhCHUQaXsJmeeMwrrc6RmrwKMVGkXVoe-9oe_7_1d_bEcrKIAQHIRQ6WATKhnMshZIyBzDBP73nU_p2A9v4AnUA-0Q.XewiAg.CjMO9yPmnARyrdnLq7gzeqAFJEw
+Upgrade-Insecure-Requests: 1
+
+csrf_token=ImJmYTQ5YmIyMWIxMzVlNGExOWNiMTZkMWVhNWVhMWI2MjIyMzU1MWQi.XewjBA.QZTf34wlo3AFBlSde44IjeNQYJ4&username=lll&submit=Lookup
+
+
